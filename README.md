@@ -1,2 +1,2 @@
-# sku_validation
+# sku validation
 validation of product sku
